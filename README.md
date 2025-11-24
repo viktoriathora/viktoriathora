@@ -10,6 +10,6 @@ I'm a BSc General Engineering (Cyber Systems) student interested in:
 
 ## Tech ✨
 
-- Languages: Python,/Java/Javascript/F#
+- Languages: Python, Java, Javascript, F#
   
 - Tools: Git, Linux, Jupyter
